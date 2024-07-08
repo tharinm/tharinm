@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently an undergraduate student at the University of Ruhuna (Bsc)  <br>  <br>🌱 I’m currently mastering frontend development  <br>  <br>🚀 I’m interested in MERN Stack Development  <br>  <br>⚡ Fun fact: Introverts can't escape  
+🔭 Full-stack developer with over one year of industry experience.  <br>  <br>🌱 I am deeply passionate about continuous learning and growth. I actively seek out new challenges and opportunities to expand my knowledge and skills   <br>  <br>🚀 Graduated from the University of Ruhuna (B.Sc) <br>  <br>
 
 
 ## 🌐 Socials:
