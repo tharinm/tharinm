@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Full-stack developer with over one year of industry experience.  <br>  <br>🌱 Passionate about continuous learning and growth. Actively seek new challenges and opportunities to expand my skills.   <br>  <br>🎓 Graduated from the University of Ruhuna (B.Sc) <br>  <br>
+🔭 Software Engineer, focused on crafting robust and user-centric software solutions..  <br>  <br>🌱 Passionate about continuous learning and growth. Actively seek new challenges and opportunities to expand my skills.   <br>  <br>🎓 Graduated from the University of Ruhuna (B.Sc) <br>  <br>
 
 
 ## 🌐 Socials:
