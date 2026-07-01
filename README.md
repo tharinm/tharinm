@@ -43,6 +43,15 @@
 [![](https://visitcount.itsvg.in/api?id=tharinm&icon=8&color=0)](https://visitcount.itsvg.in)
 
 ## 🎵 What I'm Listening To
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/16y6f7Tf0iVQuW8k0vuZuJ?utm_source=generator&si=9491cd2ffe7347eb" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<div align="center">
+  
+  [![Spotify](https://spotify-readme-stats.vercel.app/api/spotify-playing)](https://open.spotify.com/album/16y6f7Tf0iVQuW8k0vuZuJ)
+
+</div>
+
+Or visit my featured album directly:
+
+[![Listen on Spotify](https://img.shields.io/badge/▶️%20Stream%20Album-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/album/16y6f7Tf0iVQuW8k0vuZuJ)
 
 <!-- Proudly created with ❤️ - AI Engineer with Software Engineering Excellence -->
