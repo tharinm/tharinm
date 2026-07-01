@@ -44,14 +44,8 @@
 
 ## 🎵 What I'm Listening To
 
-<div align="center">
-  
-  [![Spotify](https://spotify-readme-stats.vercel.app/api/spotify-playing)](https://open.spotify.com/album/16y6f7Tf0iVQuW8k0vuZuJ)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
 
-</div>
-
-Or visit my featured album directly:
-
-[![Listen on Spotify](https://img.shields.io/badge/▶️%20Stream%20Album-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/album/16y6f7Tf0iVQuW8k0vuZuJ)
+**[🔗 Setup Your Live Spotify Widget](https://spotify-github-profile.vercel.app/)** - Connect your Spotify account to show what you're currently listening to in real-time!
 
 <!-- Proudly created with ❤️ - AI Engineer with Software Engineering Excellence -->
