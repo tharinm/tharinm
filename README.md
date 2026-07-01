@@ -44,8 +44,6 @@
 
 ## 🎵 What I'm Listening To
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
-
-**[🔗 Setup Your Live Spotify Widget](https://spotify-github-profile.vercel.app/)** - Connect your Spotify account to show what you're currently listening to in real-time!
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31aog56jd3cl5nyxhkn7bsrukzwi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=true&hide_remaster=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31aog56jd3cl5nyxhkn7bsrukzwi&redirect=true)
 
 <!-- Proudly created with ❤️ - AI Engineer with Software Engineering Excellence -->
