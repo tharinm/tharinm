@@ -42,7 +42,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=tharinm&icon=8&color=0)](https://visitcount.itsvg.in)
 
-## 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/tharin)
+## 🎵 What I'm Listening To
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/16y6f7Tf0iVQuW8k0vuZuJ?utm_source=generator&si=9491cd2ffe7347eb" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <!-- Proudly created with ❤️ - AI Engineer with Software Engineering Excellence -->
